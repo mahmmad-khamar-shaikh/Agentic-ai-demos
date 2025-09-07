@@ -1,4 +1,4 @@
-from langchain_openai import ChatOpenAI
+# from langchain_openai import ChatOpenAI
 from langchain.agents import initialize_agent, Tool, AgentType
 from langchain.memory import ConversationBufferMemory
 from dotenv import load_dotenv
